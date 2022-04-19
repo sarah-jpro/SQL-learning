@@ -10,3 +10,4 @@
   2.  Maîtriser la syntaxe SQL.
   3.  Pouvoir concevoir et mettre en place une base de données dans un projet concret.
   
+### Learning SQL as part of my training at BeCode as a junior web dev :computer:
