@@ -82,9 +82,9 @@ catch(Exception $e)
 
 <?php
     //recup les infos du form 
-    $ville = isset($_POST['ville']) ? $_POST['ville'] : NULL;
-    $haut = isset($_POST['haut']) ? $_POST['haut'] : NULL;
-    $bas = isset($_POST['bas']) ? $_POST['bas'] : NULL;
+    $ville = isset($_POST['ville']) ? $_POST['ville'] :"ville requise";
+    $haut = isset($_POST['haut']) ? $_POST['haut'] : "Température max requise";
+    $bas = isset($_POST['bas']) ? $_POST['bas'] : "Température min requise";
     //echo $ville;
 
 
