@@ -2,6 +2,7 @@
 
 <p align="center"> 
   <img src=	"https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/">
+  <img src=	"https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 ## Objectifs de ce parcours SQL :floppy_disk:
